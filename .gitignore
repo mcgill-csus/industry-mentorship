@@ -105,3 +105,6 @@ public
 
 # Docz
 .docz
+
+# DS_Store
+*.DS_Store
