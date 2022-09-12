@@ -1,0 +1,34 @@
+{
+  "name": "csus-industry-mentorship",
+  "version": "1.0.0",
+  "private": true,
+  "description": "csus-industry-mentorship",
+  "author": "Sarvasv Arora",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build --prefix-paths",
+    "serve": "gatsby serve --prefix-paths",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@emotion/core": "10.1.1",
+    "docz": "^2.4.0",
+    "gatsby": "^4.22.1",
+    "gatsby-plugin-alias-imports": "^1.0.5",
+    "gatsby-theme-docz": "^2.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "theme-ui": "^0.14.7"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  },
+  "resolutions": {
+    "graphql": "^15.8.0"
+  }
+}
