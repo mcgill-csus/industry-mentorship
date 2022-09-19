@@ -1,8 +1,8 @@
 {
-  "name": "csus-industry-mentorship",
+  "name": "industry-mentorship",
   "version": "1.0.0",
   "private": true,
-  "description": "csus-industry-mentorship",
+  "description": "CSUS Industry Mentorship Program",
   "author": "Sarvasv Arora",
   "keywords": [
     "gatsby"
