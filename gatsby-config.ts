@@ -5,7 +5,7 @@ const config: GatsbyConfig = {
     title: `CSUS Industry Mentorship Program`,
     siteUrl: `https://mcgill-csus.ca`
   },
-  pathPrefix: `/csus-industry-mentorship`,
+  pathPrefix: `/industry-mentorship`,
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
   // Learn more at: https://gatsby.dev/graphql-typegen

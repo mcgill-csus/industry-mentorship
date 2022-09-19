@@ -1,7 +1,7 @@
 const config = {
   title: 'CSUS Industry Mentorship Program',
   description: 'Website for the CSUS Industry Mentorship Program, McGill University.',
-  base: '/csus-industry-mentorship/',
+  base: '/industry-mentorship/',
   files: './src/pages/**/*.{md,markdown,mdx}',
   themeConfig: {
     initialColorMode: 'dark',
