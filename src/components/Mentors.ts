@@ -53,7 +53,7 @@ const Mentors = () => {
                 pronouns={"He/Him"}
                 link={"#"}
                 schoolStatus={"U2 Software Engineering"}
-                company={"SWE Intern @ Robotics Design"}
+                company={"Robotics SWE Intern @ Robotics Design"}
             />
             <Mentor
                 name={"Liam Scalzulli"}
