@@ -4,6 +4,7 @@ import { Flex, MenuButtonProps } from "theme-ui"
 import willImg from "@images/will_zahary.jpg"
 import yannImg from "@images/yann.jpg"
 import aidanImg from "@images/susuwatari.jpg"
+import clarenceImg from "@images/clarence.jpg"
 
 
 const flexStyle = {
@@ -28,6 +29,7 @@ const Mentors = () => {
                 name={"Clarence Leung"}
                 pronouns={"He/Him"}
                 link={"https://www.linkedin.com/in/clarle/"}
+                image={clarenceImg}
                 schoolStatus={"McGill alumnus"}
                 company={"Engineering Manager @ Netflix"}
             />
