@@ -103,12 +103,11 @@ const Mentors = () => {
                 company={"SDE Intern @ Shopify"}
             />
             <Mentor
-                name={"Zhangyuan Nie (Cryptopaka)"}
+                name={"Cryptopaka"}
                 pronouns={"They/Them"}
                 link={"https://cryptopaka.com"}
                 schoolStatus={"McGill Alumnus"}
                 company={"Developer @ Cryptopaka"}
-                blurb={"Cryptopaka"}
             />
         </Flex>
     )
