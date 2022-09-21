@@ -18,6 +18,7 @@ const config: GatsbyConfig = {
       options: {
         alias: {
           "@images": "./src/images",
+          "@components": "./src/components"
         },
         extensions: []
       }
