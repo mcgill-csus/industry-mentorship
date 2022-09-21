@@ -107,7 +107,7 @@ const Mentors = () => {
                 pronouns={"They/Them"}
                 link={"https://cryptopaka.com"}
                 schoolStatus={"McGill Alumnus"}
-                company={"SWE @ Meta"}
+                company={"Developer @ Cryptopaka"}
                 blurb={"Cryptopaka"}
             />
         </Flex>
