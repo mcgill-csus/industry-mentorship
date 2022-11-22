@@ -5,6 +5,7 @@ import willImg from "@images/will_zahary.jpg"
 import yannImg from "@images/yann.jpg"
 import aidanImg from "@images/susuwatari.jpg"
 import clarenceImg from "@images/clarence.jpg"
+import mohamedImg from "@images/mohamed.jpg"
 
 
 const flexStyle = {
@@ -50,6 +51,7 @@ const Mentors = () => {
             />
             <Mentor
                 name={"Mohamed Mahmoud"}
+                image={mohamedImg}
                 pronouns={"He/Him"}
                 link={"#"}
                 schoolStatus={"U2 Software Engineering"}
